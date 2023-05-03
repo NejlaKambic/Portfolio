@@ -10,7 +10,7 @@ Then the data is split into continents. Lastly we collect the cities with the bi
 
 **Data source:** [Kaggle](https://www.kaggle.com/datasets/hansukyang/temperature-history-of-1000-cities-1980-to-2020) 
 
-### [Temperature history - Ljubljana, linear regression](https://github.com/NejlaKambic/Portfolio/blob/main/Temperature%20history%20-%20world%20cities.ipynb)
+### [Temperature history - Ljubljana, linear regression](https://github.com/NejlaKambic/Portfolio/blob/main/Temp_history_LJ-Public.ipynb)
 
 This project assesses the yearly temperature average measured in Ljubljana, Slovenia, thus delving deeper into the dataset used for the first project. The data is sourced from a Copernicus dataset that includes daily average temperatures of 1000 cities from around the world.  We apply a linear regression model to test our hypothesis and answer the question if Ljubljana's temperature is changing significantly.
 
