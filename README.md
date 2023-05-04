@@ -1,6 +1,6 @@
 # Overview
 
-I started deelving deeper into data analysis only recently, therefore some projects can definitely be optimised and done more elegantly. Nonetheless, here are some projects which I enjoyed:
+I started delving deeper into data analysis only recently, therefore some projects can definitely be optimised and done more elegantly. Nonetheless, here are some projects which I enjoyed:
 
 ### [Temperature history - world cities](https://github.com/NejlaKambic/Portfolio/blob/main/Temperature%20history%20-%20world%20cities.ipynb)
 This project assesses the yearly temperature average measured in 1000 cities across the world. The data is sourced from a Copernicus dataset, where years range from 1980 to 2020 and the 2020 data only reaches September. 
